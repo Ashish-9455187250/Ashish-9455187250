@@ -27,7 +27,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-9455187250&show_icons=true&count_private=true)
 
 ### Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-https://www.instagram.com/singh_ashish_3003/-orange?style=flat&logo=instagram)](https://www.instagram.com/https://www.instagram.com/singh_ashish_3003//)
+[![Instagram](https://img.shields.io/badge/Instagram-singh_ashish_3003-orange?style=flat&logo=instagram)](https://www.instagram.com/singh_ashish_3003/)
 [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://https://ashishsingh3003.wixsite.com/myportfolio)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin.com/in/ashish-singh-475439226/)
 
