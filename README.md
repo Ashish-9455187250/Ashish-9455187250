@@ -1,3 +1,6 @@
+![Github readme banner](https://github.com/Ashish-9455187250/Ashish-9455187250/assets/94695243/7c6329b2-e85d-468e-a680-a8157e30de26)
+
+
 <h1 align = "center">  Hi there, I'm Ashish Singh 👋 </h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/Ashish-9455187250?style=social)](https://github.com/)
@@ -19,8 +22,8 @@
 [![Git Bash](https://img.shields.io/badge/-Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white)](https://gitforwindows.org/)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
 
 ### GitHub Stats
 
@@ -28,9 +31,9 @@
 
 ### Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-singh_ashish_3003-orange?style=flat&logo=instagram)](https://www.instagram.com/singh_ashish_3003/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Singh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashish-singh-475439226/)
 [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://https://ashishsingh3003.wixsite.com/myportfolio)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin.com/in/ashish-singh-475439226/)
-
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ashish_Singh-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/17457283/ashish-singh)
 
 ### Support Me
 
