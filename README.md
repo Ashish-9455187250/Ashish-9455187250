@@ -1,8 +1,8 @@
-### Hi there, I'm Ashish Singh 👋
+<h1 align = "center"> ### Hi there, I'm Ashish Singh 👋 </h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/Ashish-9455187250?style=social)](https://github.com/)
 
-I'm a passionate Developer based in India. 
+ ***I'm a passionate Developer based in India.***
 
 - 🔭 I'm currently working on Android development and UI/UX.
 - 🌱 I'm currently learning Android libraries and frameworks.
@@ -12,7 +12,13 @@ I'm a passionate Developer based in India.
 
 ### Languages and Tools
 
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Git Bash](https://img.shields.io/badge/-Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white)](https://gitforwindows.org/)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
