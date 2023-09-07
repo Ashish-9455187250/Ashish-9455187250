@@ -19,7 +19,8 @@
 - 🌱 I'm currently learning Android libraries and frameworks.
 - 💬 Ask me about Cars, Technologies and programming.
 - 📫 How to reach me: ashish2004.rbl@gmail.com
-- ⚡ Fun fact: You can't stop yourself from laughing when you'll talk to me.
+- ⚡ Fun fact: You can't stop laughing while you're talking to me.
+
 
 ### Languages and Tools
 
