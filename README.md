@@ -2,8 +2,8 @@
 
 <h1 align = "center">Hi there, I'm Ashish Singh 👋</h1>
 
-<p aligh="right">
-  <img src ="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Alt Text">
+<p>
+  <img src ="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Alt Text" width="400" align="right">
 </p>
 
 
@@ -36,16 +36,15 @@
 ### GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish-9455187250&theme=dark&background=000000)
 
+### GitHub Trophies
+
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Ashish-9455187250&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-singh_ashish_3003-orange?style=flat&logo=instagram)](https://www.instagram.com/singh_ashish_3003/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Singh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashish-singh-475439226/)
 [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://ashishsingh3003.wixsite.com/myportfolio)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ashish_Singh-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/17457283/ashish-singh)
-
-### GitHub Trophies
-
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Ashish-9455187250&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 **If you like my profile, please follow me**
