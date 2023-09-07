@@ -48,10 +48,10 @@
 [![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Ashish-9455187250&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me
-[![Follow me on Instagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/singh_ashish_3003/)
-[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-singh-475439226/)
-[![Visit my website](https://img.shields.io/badge/Visit%20my%20website-%23000000?style=for-the-badge&logo=web&logoColor=white)](https://ashishsingh3003.wixsite.com/myportfolio)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-%23F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17457283/ashish-singh)
+[![Follow me on Instagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-singh_ashish_9300-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/singh_ashish_3003/)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-Ashish_Singh-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-singh-475439226/)
+[![Visit my website](https://img.shields.io/badge/Visit%20my%20website-My_Portfolio-%230000?style=for-the-badge&logo=web&logoColor=white)](https://ashishsingh3003.wixsite.com/myportfolio)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ashish_Singh-%23F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17457283/ashish-singh)
 [![Dribbble](https://img.shields.io/badge/Dribbble-Ashish3003-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Ashish3003)
 
 
