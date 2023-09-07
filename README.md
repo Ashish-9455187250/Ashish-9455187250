@@ -33,6 +33,8 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%1300f?style=for-the-badge)](https://www.mysql.com/products/workbench/)
+
 
 ### GitHub Stats
 
