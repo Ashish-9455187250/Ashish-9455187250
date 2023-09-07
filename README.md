@@ -30,9 +30,8 @@
 [![Git Bash](https://img.shields.io/badge/-Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white)](https://gitforwindows.org/)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
-
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 ### GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-9455187250&theme=dark&show_icons=true&count_private=true)
@@ -47,9 +46,8 @@
 ### Connect with me
 [![Follow me on Instagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/singh_ashish_3003/)
 [![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-singh-475439226/)
-
-[![My Portfolio Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://ashishsingh3003.wixsite.com/myportfolio)
-[![Follow me on Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ashish_Singh-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/17457283/ashish-singh)
+[![Visit my website](https://img.shields.io/badge/Visit%20my%20website-%23000000?style=for-the-badge&logo=web&logoColor=white)](https://ashishsingh3003.wixsite.com/myportfolio)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-%23F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17457283/ashish-singh)
 [![Dribbble](https://img.shields.io/badge/Dribbble-Ashish3003-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Ashish3003)
 
 
