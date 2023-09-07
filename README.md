@@ -33,6 +33,10 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-9455187250&theme=dark&show_icons=true&count_private=true)
 
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish-9455187250&theme=dark&background=000000)
+
+
 ### Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-singh_ashish_3003-orange?style=flat&logo=instagram)](https://www.instagram.com/singh_ashish_3003/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Singh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashish-singh-475439226/)
