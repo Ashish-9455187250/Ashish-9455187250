@@ -32,7 +32,7 @@
 ### Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-singh_ashish_3003-orange?style=flat&logo=instagram)](https://www.instagram.com/singh_ashish_3003/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Singh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashish-singh-475439226/)
-[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://https://ashishsingh3003.wixsite.com/myportfolio)
+[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://ashishsingh3003.wixsite.com/myportfolio)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ashish_Singh-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/17457283/ashish-singh)
 
 ### Support Me
