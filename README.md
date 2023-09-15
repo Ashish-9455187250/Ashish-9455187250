@@ -7,7 +7,7 @@
 
 
 <p>
-  <img src ="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Alt Text" width="400" align="right">
+  <img src ="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Alt Text" width="350" align="right">
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ashish-9455187250&color=blueviolet&style=plastic)](https://github.com/Ashish-9455187250)
