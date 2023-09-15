@@ -38,8 +38,8 @@
 
 
 ### GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-9455187250&theme=dark&show_icons=true)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-9455187250&theme=dark&show_icons=true&count_private=true)
 
 ### GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish-9455187250&theme=dark&background=000000)
