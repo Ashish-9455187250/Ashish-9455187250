@@ -24,8 +24,6 @@
 
 [![An image of @ashish9455187250's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashish9455187250)](https://holopin.io/@ashish9455187250)
 
-
-
 ### Languages and Tools
 
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
