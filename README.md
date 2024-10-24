@@ -7,25 +7,27 @@
 
 
 <p>
-  <img src ="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Alt Text" width="350" align="right">
+  <img src ="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Alt Text" width="300" align="right">
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ashish-9455187250&color=blueviolet&style=plastic)](https://github.com/Ashish-9455187250)
 
 
  ### About Me
-
-- 🔭 I'm currently working on Android development and UI/UX.
-- 🌱 I'm currently learning Android libraries and frameworks.
+ 
+- 🔭 I'm currently working on Jetpack Compose and kotlin for developing
+   scalable android appilcations.
+- 🌱 Currently learning Android libraries and frameworks.
 - 💬 Ask me about Cars, Technologies and programming.
 - 📫 How to reach me: ashish2004.rbl@gmail.com
-- ⚡ Fun fact: You can't stop laughing while you're talking to me.
 
 
 [![An image of @ashish9455187250's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashish9455187250)](https://holopin.io/@ashish9455187250)
 
 ### Languages and Tools
 
+[![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose/documentation)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/home.html)
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -37,6 +39,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![HTML Badge](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html)](https://www.w3.org/html/)
 [![CSS Badge](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css)](https://www.w3.org/Style/CSS/)
+[![Room](https://img.shields.io/badge/-Room-0079B5?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/data-storage/room)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%1300f?style=for-the-badge)](https://www.mysql.com/products/workbench/)
 
